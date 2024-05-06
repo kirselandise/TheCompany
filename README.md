@@ -20,6 +20,7 @@ If I were to further expand this game, I would add monsters that you can run int
 Racket Docs: https://docs.racket-lang.org/reference/index.html
 Lethal Company: https://store.steampowered.com/app/1966720/Lethal_Company/
 Classmates, namely Meghan and GuntasJ (Discord usernames)
+
 Claude, minorly to fix some broken methods: https://claude.ai/chats
 ### Final Thoughts
 Really enjoyed this project even though I despise racket. If I had the choice, I would never touch this language again in my life lol. I appreciate the fun final though
