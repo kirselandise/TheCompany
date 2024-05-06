@@ -18,7 +18,9 @@ You need to retrieve all three data cores and drop them at the escape pods to le
 If I were to further expand this game, I would add monsters that you can run into if you are taking to long. The laser blaster would have three chargers allowing you to defend yourself three times before its game over.
 ### Sources used
 Racket Docs: https://docs.racket-lang.org/reference/index.html
+
 Lethal Company: https://store.steampowered.com/app/1966720/Lethal_Company/
+
 Classmates, namely Meghan and GuntasJ (Discord usernames)
 
 Claude, minorly to fix some broken methods: https://claude.ai/chats
